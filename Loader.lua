@@ -1,4 +1,4 @@
-if game.PlaceId == 10464237910 or game.PlaceId == 15697104413 or game.PlaceId == 13373351184 then
+if game.PlaceId == 10464237910 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/VuRobloxViet/VuHub/refs/heads/main/DragonSea.lua"))()
 elseif game.PlaceId == 5811374318 or game.PlaceId == 12048634049 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/VuRobloxViet/VuHub/refs/heads/main/DragonPiece.lua"))()
