@@ -1,5 +1,3 @@
-if game.PlaceId == 10464237910 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/VuRobloxViet/VuHub/refs/heads/main/DragonSea.lua"))()
-elseif game.PlaceId == 10449761463 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/VuRobloxViet/VuHub/refs/heads/main/TheStrongestBattlegrounds.lua"))()
+if game.PlaceId == 131623223084840 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/VuRobloxViet/VuHub/main/EscapeTsunamiForBrainrot.lua"))()
 end
